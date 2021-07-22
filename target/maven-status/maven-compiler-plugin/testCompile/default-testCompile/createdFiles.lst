@@ -1,0 +1,6 @@
+steps\MyStepdefs.class
+page\TaskOne.class
+steps\RunTest.class
+page\BasePage.class
+page\Main.class
+test\TestBase.class
